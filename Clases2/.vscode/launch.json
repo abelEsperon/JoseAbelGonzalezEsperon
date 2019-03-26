@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Rectangulo",
+            "request": "launch",
+            "mainClass": "Rectangulo",
+            "projectName": "Clases2_15d50e"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Operaciones",
+            "request": "launch",
+            "mainClass": "Operaciones",
+            "projectName": "Clases2_15d50e"
+        }
+    ]
+}
